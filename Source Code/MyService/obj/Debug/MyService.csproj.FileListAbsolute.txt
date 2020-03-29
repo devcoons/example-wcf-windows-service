@@ -1,0 +1,3 @@
+C:\MyProjects\MyService\MyService\bin\Debug\MyService.exe
+C:\Users\ioadel\Desktop\New folder (5)\example-wcf-windows-service\Source Code\Executable\MyService.exe
+C:\Users\ioadel\Desktop\New folder (5)\example-wcf-windows-service\Source Code\Executable\MyService.pdb
